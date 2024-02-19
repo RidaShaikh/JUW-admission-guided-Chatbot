@@ -1,0 +1,117 @@
+{
+  "intents": [
+    {
+      "tag": "admission_process",
+      "patterns": [
+        "Tell me about the admission process.",
+        "How can I apply?",
+        "What are the steps for admission?",
+        "Explain the application process.",
+        "Give me details about applying for admission.",
+        "What is required for admission?",
+        "How do I get admitted to the university?",
+        "Can you guide me through the admission steps?",
+        "Tell me the procedure for enrolling in courses."
+      ],
+      "responses": [
+        "The admission process involves submitting an online application form.",
+        "It includs submitting your application and supporting documents.",
+        "You can find detailed information about the admission process on our official website.",
+        "Make sure to check the admission requirements before applying.",
+        "To get admitted, follow the instructions on our admission portal.",
+        "Visit the admission section on our website for step-by-step guidance.",
+        "Ensure that you fulfill the admission criteria before applying.",
+        "For course enrollment, follow the steps mentioned in the admission guide."
+      ]
+    },
+
+    {
+    "tag": "test_dates",
+    "patterns": [
+      "What are test dates?",
+      "Provide the schedule for admission tests?",
+      "What are the test dates for this semester?",
+      "Tell me exam dates.",
+      "When is the next admission test scheduled?",
+      "Provide information about test dates.",
+      "Can you share the upcoming test dates?"
+    ],
+    "responses": [
+      "The upcoming test dates are 10 january to 25 january.",
+      "tests are starting from 10 january"
+ 
+    ]
+    },
+
+    {
+      "tag": "fees",
+      "patterns": [
+        "What are the fees for semester?",
+        "Can you provide information on course fees?",
+        "Tell me about the fees for the selected program.",
+        "What is the cost of tuition for my course?",
+        "Give me details about the fee structure.",
+        "How much do I need to pay for admission?",
+        "Provide information on semester fees."
+      ],
+      "responses": [
+        "Visit official website of jinnah university for women or in the university prospectus.",
+        "The fee details for each program are available on the university website.",
+        "Check the official fee brochure for the cost of tuition for your specific course.",
+        "Visit the finance department's section on our website for the fee structure.",
+        "Information on admission fees is available on the university's financial services page.",
+        "The semester-wise fee details are outlined in the official fee schedule."
+      ]
+    },
+
+    {
+      "tag": "departments",
+      "patterns": [
+        "Tell me about the departments in the university.",
+        "What are the major departments here?",
+        "Give me a list of academic departments.",
+        "Can you provide information on departmental facilities?",
+        "Tell me about the different faculties in the university.",
+        "What academic departments does the university have?",
+        "Give me details about the department of [Computer science].",
+        "Tell me about the faculty members in [pychology].",
+        "Can you guide me on choosing a department?",
+        "Provide information on interdisciplinary departments."
+      ],
+      "responses": [
+        "The university has various departments, including [Computer science, pychology, pharamcy, english, fashion design, mathematics,biochemistry].",
+        "Details about the [Computer science] can be found on its dedicated webpage.",
+        "Faculty members of [pychology] can be found on the department's website.",
+        "To choose a department, consider your academic interests and goals, and explore departmental information on our site.",
+        "Explore interdisciplinary departments on our website to find unique academic opportunities."
+      ]
+    },
+
+    {
+      "tag": "eligibility_criteria",
+      "patterns": [
+        "What are the eligibility criteria for admission?",
+        "Can you tell me about the minimum requirements for admission?",
+        "Give me details about the admission eligibility.",
+        "What qualifications are required for admission?",
+        "Tell me about the academic prerequisites for admission.",
+        "Provide information on eligibility criteria for [specific program].",
+        "What is the minimum GPA required for admission?",
+        "Can I get admission with a [specific qualification]?",
+        "Tell me about the eligibility criteria for international students.",
+        "What are the specific requirements for [specific department]?"
+      ],
+      "responses": [
+        "you must have intermediate degree",
+        "Explore the eligibility criteria section on our official website.",
+        "The academic prerequisites for admission can be found on the admission portal.",
+        "Check the admission requirements section for information on necessary qualifications.",
+        "For [specific program], refer to the eligibility criteria mentioned on the program's webpage.",
+        "The minimum GPA required for admission is outlined in the admission guidelines.",
+        "Details about admission with specific qualifications are available on the admission portal.",
+        "International students can find eligibility criteria on the international admissions page.",
+        "For [specific department], check the departmental requirements on the respective webpage."
+      ]
+    }
+  ]
+}
